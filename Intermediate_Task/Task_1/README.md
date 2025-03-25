@@ -8,7 +8,7 @@ This project analyzes **air quality in Delhi** using historical AQI data. It eva
 - **Location**: Delhi  
 - **Key Fields**:  
   - **Date** – Timestamp of the recorded data  
-  - **Pollutants** – PM2.5, PM10, NO2, SO2, CO, O3  
+  - **Pollutants** – PM2.5, PM10, NO2, SO2, CO, O3   
 
 📊 **Visualizations**  
 ✅ Bar Chart – Average pollutant levels  
