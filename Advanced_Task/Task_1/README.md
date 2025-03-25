@@ -15,16 +15,6 @@ Using **performance scores** and **data visualization**, we gain insights into e
   - **Fielding Action** (Catch, Stumping, Direct Hit, etc.)  
   - **Runs Saved/Conceded**  
   - **Throw Type**  
-
----
-
-## 📊 Methodology
-1️⃣ **Data Cleaning** – Handling missing values  
-2️⃣ **Exploratory Data Analysis (EDA)** – Trends & distributions  
-3️⃣ **Performance Scoring** – Weighted scoring system  
-4️⃣ **Visualization** – Bar charts, piechart
-
-
 ---
 
 ## 👨‍💻 **Author & Contact**  
