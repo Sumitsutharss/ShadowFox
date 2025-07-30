@@ -20,4 +20,3 @@ Using **performance scores** and **data visualization**, we gain insights into e
 ## 👨‍💻 **Author & Contact**  
 📌 **Developed by:** [Sumit Suthar](https://www.linkedin.com/in/sumitsutharmain)  
 📌 **Internship:** ShadowFox – Data Science Task  
-📌 **GitHub Repository:** [Cricket Fielding Analysis](https://github.com/sumitsutharss/Cricket-Fielding-Analysis)  
